@@ -1,4 +1,4 @@
-### My quote
+### My favorite quote
 > What I Cannot Create, I Do Not Understand
 
 <!--
